@@ -1,0 +1,21 @@
+{
+  "name": "12",
+  "version": "1.0.0",
+  "description": "O arquivo `src/data/products.json` possui uma lista de **25 produtos** diferentes, distribuídos em **4 categorias**:",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest test/index.test.js",
+    "test:watch": "jest test/index.test.js --watch",
+    "clean": "Cleaning the cache"
+  },
+  "author": "Mario Batalha",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.0",
+    "jest-junit": "^10.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {}
+}
